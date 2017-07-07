@@ -15,10 +15,10 @@ Usage
 
 Note
 -------------
-Path to below directories */src/main/webapp/*<br>
+Path to below directories */src/main/webapp/*, do **NOT** remove these folders<br>
 - **config/** folder contains setting string
   - **newai_ocr.ini** file contains mail jet key
-- **opencv-native-lib/** folder contains opencv native lib, do **NOT** remove this folder
+- **opencv-native-lib/** folder contains opencv native lib
 - **tessdata/** folder contains trained data for tesseract
 
 Dependency 
@@ -29,4 +29,5 @@ Dependency
 License 
 -------------
 - [Apache license 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [elastic Open Source license](https://www.elastic.co/subscriptions)
+
+### © 2017 NewAI Team
